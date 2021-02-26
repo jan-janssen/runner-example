@@ -22,7 +22,7 @@
 ### general keywords
 ########################################################################################################################
 nn_type_short 1                           # 1=Behler-Parrinello
-runner_mode 2                             # 1=calculate symmetry functions, 2=fitting mode, 3=predicition mode
+runner_mode 1                             # 1=calculate symmetry functions, 2=fitting mode, 3=predicition mode
 number_of_elements 1                      # number of elements
 elements Cu                               # specification of elements
 random_seed 10                            # integer seed for random number generator                         

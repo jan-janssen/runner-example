@@ -4,3 +4,4 @@ dependencies:
 - runner
 - python
 - pyiron
+- papermill
