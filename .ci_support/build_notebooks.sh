@@ -1,4 +1,7 @@
 #!/bin/bash
+# configure pyiron 
+python .ci_support/pyironconfig.py
+
 # execute notebooks
 i=0;
 for notebook in $(ls *.ipynb); do 
