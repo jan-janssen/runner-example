@@ -3,5 +3,6 @@ channels:
 dependencies:
 - runner
 - python
-- pyiron
+- pyiron_base =0.1.48
+- pyiron-data =0.0.8
 - papermill
