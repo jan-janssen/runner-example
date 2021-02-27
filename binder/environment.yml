@@ -4,6 +4,6 @@ dependencies:
 - runner
 - python
 - pyiron_base =0.1.48
-- pyiron-data =0.0.9
+- pyiron-data =0.0.8
 - notebook
 - papermill
